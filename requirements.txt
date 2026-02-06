@@ -6,3 +6,5 @@ openai
 python-dotenv
 pydantic
 google-generativeai
+passlib[bcrypt]
+email-validator
