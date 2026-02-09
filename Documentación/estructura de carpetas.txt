@@ -1,0 +1,11 @@
+/LuminaTarot
+  /backend
+    /app
+      __init__.py      (archivo vacío)
+      database.py      (conexión a base de datos)
+      models.py        (tablas SQL)
+      schemas.py       (validación de datos JSON)
+      ai_service.py    (lógica de OpenAI y el Prompt)
+      main.py          (el servidor API)
+    .env               (tus claves secretas)
+    requirements.txt   (librerías)
